@@ -1,0 +1,8 @@
+name: InvisibleLogin
+main: InvisibleLogin\Main
+version: "1.0"
+api: [1.11.0]
+load: STARTUP
+author: EvolSoft
+description: A ServerAuth extension to make players invisible when they are not authenticated
+website: http://www.evolsoft.tk
