@@ -1,11 +1,11 @@
 <?php
 
 /*
- * InvisibleLogin (v1.0) by EvolSoft
+ * InvisibleLogin (v1.1) by EvolSoft
  * Developer: EvolSoft (Flavius12)
  * Website: http://www.evolsoft.tk
- * Date: 17/01/2016 11:36 AM (UTC)
- * Copyright & License: (C) 2016 EvolSoft
+ * Date: 11/03/2017 12:51 AM (UTC)
+ * Copyright & License: (C) 2016-2017 EvolSoft
  * Licensed under MIT (https://github.com/EvolSoft/InvisibleLogin/blob/master/LICENSE)
  */
 
@@ -27,7 +27,7 @@ class Main extends PluginBase {
 	const PRODUCER = "EvolSoft";
 	
 	/** @var string VERSION Plugin version */
-	const VERSION = "1.0";
+	const VERSION = "1.1";
 	
 	/** @var string MAIN_WEBSITE Plugin producer website */
 	const MAIN_WEBSITE = "http://www.evolsoft.tk";
@@ -89,4 +89,3 @@ class Main extends PluginBase {
         }
     }
 }
-?>
