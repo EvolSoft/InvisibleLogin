@@ -1,11 +1,11 @@
 <?php
 
 /*
- * InvisibleLogin (v1.0) by EvolSoft
+ * InvisibleLogin (v1.1) by EvolSoft
  * Developer: EvolSoft (Flavius12)
  * Website: http://www.evolsoft.tk
- * Date: 17/01/2016 11:41 AM (UTC)
- * Copyright & License: (C) 2016 EvolSoft
+ * Date: 11/03/2017 12:52 AM (UTC)
+ * Copyright & License: (C) 2016-2017 EvolSoft
  * Licensed under MIT (https://github.com/EvolSoft/InvisibleLogin/blob/master/LICENSE)
  */
 
