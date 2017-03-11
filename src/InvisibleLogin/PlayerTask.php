@@ -36,4 +36,3 @@ class PlayerTask extends PluginTask {
     	}
     }
 }
-?>
