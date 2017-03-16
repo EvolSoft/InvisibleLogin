@@ -45,8 +45,7 @@ class Main extends PluginBase {
 	 *
 	 * @return string The translated message
 	 */
-	public function translateColors($symbol, $message){
-		
+	public function translateColors($symbol, $message){		
 		$message = str_replace($symbol."0", TextFormat::BLACK, $message);
 		$message = str_replace($symbol."1", TextFormat::DARK_BLUE, $message);
 		$message = str_replace($symbol."2", TextFormat::DARK_GREEN, $message);
