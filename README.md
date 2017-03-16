@@ -8,7 +8,7 @@ PocketMine-MP plugins
 
 ## Requirements
 
-PocketMine-MP Alpha_1.4 API 1.11.0<br>
+[PocketMine-MP](https://github.com/pmmp/PocketMine-MP) API 2.0.0 - 3.0.0-ALPHA4<br>
 **Dependency Plugins:** ServerAuth v2.12 API 1.1.1
 
 ## Overview
